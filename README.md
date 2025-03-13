@@ -55,6 +55,8 @@ Plataforma: Windows y Linux
 ✅ Exploración: Recorre escenarios mágicos, desde bosques encantados hasta ruinas ancestrales.
 ✅ Combate dinámico: Sistema de combate fluido con ataques, esquivas y habilidades especiales.
 ✅ Historia envolvente: Descubre la verdad detrás del reino olvidado.
+
+Para descargar el juego ir a la pagina de itch.io para descargar el juego. https://srn0k33.itch.io/las-aventuras-de-riven
 ✅ Mejoras y equipamiento: Encuentra y mejora armas y habilidades.
 ✅ PNJ e interacción: Habla con personajes carismáticos que influirán en la historia.
 ✅ Dificultad ajustable: Para jugadores casuales y hardcore.
